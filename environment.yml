@@ -1,0 +1,7 @@
+name: pubTran
+channels:
+  - defaults
+dependencies:
+  - python
+  - jupyter
+prefix: /home/edgar/anaconda3/envs/pubTran
